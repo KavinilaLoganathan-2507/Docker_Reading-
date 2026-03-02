@@ -7,12 +7,14 @@ Isolated and secured
 Image - Minimum set of files 
 
 Working of docker:
+
 Creating a docker file - set of instruction,Base image , Application code , Dependency , Environmental variable and Set of comments (which makes the docker to run)
 
 # docker build /<file_location>
 # docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND][ARG..]
 
 # DockerHub
+
 Prebuild images that can be downloaded and can be used 
 1. Registry - has many images (languages)
    1.1 Public - open access (Docker hub)
