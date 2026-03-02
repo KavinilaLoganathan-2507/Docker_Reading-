@@ -1,5 +1,25 @@
 # Docker_Reading
 
+Docker is a Containerization framework
+
+Isolated and secured 
+
+Image - Minimum set of files 
+
+Working of docker:
+Creating a docker file - set of instruction,Base image , Application code , Dependency , Environmental variable and Set of comments (which makes the docker to run)
+
+# docker build /<file_location>
+# docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND][ARG..]
+
+# DockerHub
+Prebuild images that can be downloaded and can be used 
+1. Registry - has many images (languages)
+   1.1 Public - open access (Docker hub)
+   1.2 Private -  (Google & Azure)
+2. Repository - Versions of the languages
+
+
 Docker Desktop is a one-click-install application for your Mac, Linux, or Windows environment that lets you build, share, and run containerized applications and microservices.
 
 It provides a straightforward GUI (Graphical User Interface) that lets you manage your containers, applications, and images directly from your machine.
