@@ -35,3 +35,24 @@ Docker Desktop integrates with your preferred development tools and languages, a
 Docker Desktop Installation Guide (Windows)
 </a>
 
+# Creating docker file in real time in VS code :
+
+# File name rules:
+
+**D** should be in uppercase
+The file name should be **Dockerfile**
+
+# CODE:
+
+->start with **FROM** and **IMAGE**
+->Search in google and select the version 
+->Creating working directory 
+->copy files with **.** and move the files inside the container 
+->**EXPOSE** with port number
+->**CMD** running commands 
+
+# Open Docker application :
+
+->Can view items in two ways:
+   -> Desktop (GUI)
+   -> CLI
