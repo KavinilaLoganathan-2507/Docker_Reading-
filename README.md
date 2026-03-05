@@ -6,9 +6,9 @@ Isolated and secured
 
 Image - Minimum set of files 
 
-Working of docker:
+Working with Docker:
 
-Creating a docker file - set of instruction,Base image , Application code , Dependency , Environmental variable and Set of comments (which makes the docker to run)
+Creating a Docker file - set of instructions, a base image , Application code , Dependency , Environmental variable and Set of comments (which makes the docker to run)
 
 # docker build /<file_location>
 # docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND][ARG..]
