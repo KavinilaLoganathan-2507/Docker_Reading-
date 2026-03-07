@@ -8,14 +8,14 @@ Image - Minimum set of files
 
 Working with Docker:
 
-Creating a Docker file - set of instructions, a base image , Application code , Dependency , Environmental variable and Set of comments (which makes the docker to run)
+Creating a Docker file - a set of instructions, a base image, Application code, dependencies, environmental variables, and a set of comments (which makes the Docker run)
 
 # docker build /<file_location>
 # docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND][ARG..]
 
 # DockerHub
 
-Prebuild images that can be downloaded and can be used 
+Prebuilt images that can be downloaded and used 
 1. Registry - has many images (languages)
    1.1 Public - open access (Docker hub)
    1.2 Private -  (Google & Azure)
@@ -35,7 +35,7 @@ Docker Desktop integrates with your preferred development tools and languages, a
 Docker Desktop Installation Guide (Windows)
 </a>
 
-# Creating docker file in real time in VS code :
+# Creating Docker file in real time in VS Code:
 
 # File name rules:
 
@@ -47,7 +47,7 @@ The file name should be **Dockerfile**
 
 ->start with **FROM** and **IMAGE**
 
-->Search in google and select the version 
+->Search on Google and select the version 
 
 ->Creating working directory 
 
