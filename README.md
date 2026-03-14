@@ -1,14 +1,14 @@
 # Docker_Reading
 
-Docker is a Containerization framework
+* Docker is a Containerization framework
 
-Isolated and secured 
+* Isolated and secured 
 
-Image - Minimum set of files 
+* Image - Minimum set of files 
 
-Working with Docker:
+* Working with Docker:
 
-Creating a Docker file - a set of instructions, a base image, Application code, dependencies, environmental variables, and a set of comments (which makes the Docker run)
+* Creating a Docker file - a set of instructions, a base image, Application code, dependencies, environmental variables, and a set of comments (which makes the Docker run)
 
 # docker build /<file_location>
 # docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND][ARG..]
