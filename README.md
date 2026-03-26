@@ -18,7 +18,7 @@
 Prebuilt images that can be downloaded and used 
 1. Registry - has many images (languages)
    1.1 Public - open access (Docker hub)
-   1.2 Private -  (Google & Azure)
+   1.2 Private -  (Google and Azure)
 2. Repository - Versions of the languages
 
 
