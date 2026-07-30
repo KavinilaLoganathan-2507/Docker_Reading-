@@ -1,5 +1,10 @@
 # Docker_Reading
 
+# Docker 
+   * Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
+# Containerization
+   * Containerization is a technology that packages an application's code with all its required dependencies, libraries, and configuration files into a single, standardized unit called a container
+
 * Docker is a Containerization framework
 
 * Isolated and secured 
@@ -64,3 +69,4 @@ The file name should be **Dockerfile**
    -> Desktop (GUI)
    
    -> CLI
+
